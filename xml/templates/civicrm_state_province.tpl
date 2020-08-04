@@ -551,6 +551,7 @@ INSERT INTO civicrm_state_province (id, country_id, abbreviation, name) VALUES
 (1913, 1025, "O", "Oruro"),
 (1914, 1025, "N", "Pando"),
 (1915, 1025, "P", "Potosi"),
+(1915, 1025, "ZC", "Santa Cruz"),
 (1916, 1025, "T", "Tarija"),
 (1917, 1029, "AC", "Acre"),
 (1918, 1029, "AL", "Alagoas"),
